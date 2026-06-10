@@ -132,4 +132,3 @@ The application uses a multi-stage pipeline:
 ## Additional Documentation
 
 See `DESIGN.md` for a more detailed architecture and workflow design document.
-# Enterprise-RAG-Farmer-DB
